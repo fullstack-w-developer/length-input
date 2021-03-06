@@ -1,2 +1,2 @@
 <h4>leght-input</h4>
-<img style="text-align: center;" src="/images/length.png">
+<img align='center' src="/images/length.png">
